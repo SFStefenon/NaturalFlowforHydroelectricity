@@ -6,5 +6,6 @@ The process of combining data observed at meteorological stations and rainfall s
 
 The precipitation and flow example for this dataset is presented here:
 
-![image](https://github.com/SFStefenon/NaturalFlowforHydroelectricity/assets/88292916/54286b31-4429-45b9-a2a8-0a0b99816d13)
+![image](https://github.com/SFStefenon/NaturalFlowforHydroelectricity/assets/88292916/f6ccbe11-74a2-4fef-98a7-57dae1976b03)
+
 
