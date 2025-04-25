@@ -7,3 +7,9 @@ The process of combining data observed at meteorological stations and rainfall s
 The precipitation and flow example for this dataset is presented here:
 
 ![image](https://github.com/SFStefenon/NaturalFlowforHydroelectricity/assets/88292916/6bebce9a-df19-4d0d-9ea5-3d92110bd9a4)
+
+Thank you.
+
+Dr. Stefano Frizzo Stefenon.
+
+Trento, Italy, 2025.
