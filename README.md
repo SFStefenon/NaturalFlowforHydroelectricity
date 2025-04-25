@@ -1,4 +1,4 @@
-# Natural Flow of Tucuruí hydroelectric power plant
+# Natural flow of Tucuruí hydroelectric power plant
 
 This dataset has the observed rainfall data of the Tucuruí hydroelectric power plant from the Brazilian National Electric System Operator (in Portuguese Operador Nacional do Sistema - ONS) open data portal. This power plant is located in the Tocantins River basin (Northern Brazil) and has a total installed capacity of 8,370 MW. The observed precipitation available has as data sources the meteorological stations of the National Institute of Meteorology, rainfall stations of the generation agents, and precipitation estimation by the GOES-16 satellite provided by the National Aeronautics and Space Administration (NASA).
 
